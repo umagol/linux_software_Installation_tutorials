@@ -1,18 +1,8 @@
-
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![Apache License][license-shield]][license-url]
-![](https://visitor-badge.glitch.me/badge?page_id=umagol.umagol)
-
-
-
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="./logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Installation Tutorial</h3>
@@ -50,14 +40,13 @@
         <li><a href="#framework">Framework</a></li>
         <li><a href="#tools">Tools</a></li>
         <li><a href="#database">DataBase</a></li>
-        <li><a href="#installation">Operating System</a></li>
+        <li><a href="#operating-system">Operating System</a></li>
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
 
@@ -66,9 +55,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
- In this Installation Guide template we have included different installation scenarios based on our experience in developing and installing applications. As some of these may not be relevant to your installatio plan, please remove those which are not applicable and , where necessary, update the old step to new.
+  In this Installation Guide template we have included different installation scenarios based on our experience in developing and installing applications. As some of these may not be relevant to your installatio plan, please remove those which are not applicable and , where necessary, update the old step to new.
   
 ### Purpose of this document
 
@@ -109,6 +96,10 @@
  - PostgreSQL
  - MongoDB
 
+## - Operating System
+ - Window10
+ - ubuntu 18.04
+ - ubuntu 20.04
 
 
 <!-- USAGE EXAMPLES -->
