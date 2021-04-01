@@ -135,7 +135,7 @@ Distributed under the Apache-2.0 License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/UmagolSatish) - umagol97@gmail.com
+Your Name - [@UmagolSatish](https://twitter.com/UmagolSatish) 
 
 Project Link: [https://github.com/umagol/Installation_tutorial](https://github.com/umagol/Installation_tutorial)
 
