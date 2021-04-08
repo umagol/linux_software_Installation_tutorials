@@ -67,8 +67,7 @@
 ## Getting Started
 
 ## - Programming language
-
- - Python2
+ 
  - Pyhton3 
  - Java8
  - Java11
