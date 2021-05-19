@@ -21,7 +21,7 @@
   - One Ubuntu 18.04 server set up by following this initial server setup guide, including a non-root user with sudo privileges and a firewall.
   
 
-### How To Install MySQL on Ubuntu 18.04
+### How To Install MySQL on Linux
 <br />
 
 #### - Installing MySQL
